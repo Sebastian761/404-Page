@@ -68,4 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - LinkedIn (https://www.linkedin.com/in/sebastian-ocando-vivas-306a7a249/)
-- GitHub Sebastian761](https://github.com/Sebastian761)
+- GitHub (https://github.com/Sebastian761)
